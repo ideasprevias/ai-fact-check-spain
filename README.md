@@ -1,2 +1,2 @@
-# ai-fact-check-spain
+# ai-fact-check
 AI claim veryfication
