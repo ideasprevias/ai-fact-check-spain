@@ -6,7 +6,7 @@
 - **[H] Hypothesis** — No primary source found; potential hallucination or unsupported claim
 
 **AI Model used:** Claude (web search disabled)
-**Report generated:** April 2025
+**Report generated:** April 2026
 **Fact-check conducted by:** Jorge Baptista
 **Framework:** Decision Architect — V/I/H Epistemic Tagging
 
